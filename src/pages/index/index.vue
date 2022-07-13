@@ -9,8 +9,7 @@
     <view class="p-2.5 w-1/2">
       <image src="../../cover.jpg" />
     </view>
-    <view class="p-2.5 w-1/2"
-      >ets
+    <view class="p-2.5 w-1/2">
       <image src="../../cover.jpg" />
     </view>
   </view>
