@@ -1174,10 +1174,10 @@
     "@babel/helper-validator-identifier" "^7.18.6"
     to-fast-properties "^2.0.0"
 
-"@dcasia/mini-program-tailwind-webpack-plugin@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.npmmirror.com/@dcasia/mini-program-tailwind-webpack-plugin/-/mini-program-tailwind-webpack-plugin-1.4.3.tgz#93af816760dc4885ed88dacc29f6d89798ca26fd"
-  integrity sha512-qTxnNqCmNHpkl4Q5Uo/yjUG8oBnVKw9ZT1L1usgncscGYzUdGDR7KKz8kFoWDeASI3YdSobHZk6qsXLJy4t8qA==
+"@dcasia/mini-program-tailwind-webpack-plugin@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.npmmirror.com/@dcasia/mini-program-tailwind-webpack-plugin/-/mini-program-tailwind-webpack-plugin-1.5.0.tgz#0692886677975cefae9c97645bca21fba1d0fd04"
+  integrity sha512-ZYoy7WlRk8aCQUH5xKdjLUo3b9NVzl2taCMWJ4X/HjhxEh2xJGQG/B7OUb0/nKZ/q8sV3RPKP7UuPw7beEgK2g==
   dependencies:
     "@babel/core" "^7.17.5"
     "@vivaxy/wxml" "^2.1.0"
